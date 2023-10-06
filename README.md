@@ -92,18 +92,6 @@ Connect with me on social media:
 
 ### Check out some of my work
 
-- **GameHub Online Store**
-
-  - Description: This website aims to create an excellent online store for games.
-  - Link: [GameHub Online Store](https://nenorvalls-gamehub-cms-ca.netlify.app/)
-  - ![GameHub Online Store](/images/gamehub-screenshot.jpeg)
-
-- **Project Exam 1, Noroff**
-
-  - Description: The Blogsite aims to apply the skills we learned over the first year of studies.
-  - Link: [Project Exam 1, Noroff](https://nenorvalls-blogsite.netlify.app/)
-  - ![Project Exam 1, Noroff](/images/filipino-screenshot.jpeg)
-
 - **Community Science Museum**
   - Description: This website's main goal is to put what we learn about HTML and CSS.
   - Link: [Community Science Museum](https://nenorvalls-community-science-museum.netlify.app/)
