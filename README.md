@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Neno, a full-time front-end developer student.
+I'm Neno, a full-time front-end developer.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nenorvalls&style=flat-square&color=blue)
 
@@ -8,7 +8,7 @@ I'm Neno, a full-time front-end developer student.
 
 ## About Me
 
-👩‍💻 Full-time front-end developer student.
+👩‍💻 Full-time front-end developer.
 
 🌍 Filipina, living in Norway for 8 years.
 
