@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Neno, a front-end developer.
+I'm Neno.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nenorvalls&style=flat-square&color=blue)
 
@@ -8,11 +8,11 @@ I'm Neno, a front-end developer.
 
 ## About Me
 
-👩‍💻 Full-time front-end developer.
+👩‍💻 fresh graduate front-end developer.
 
 🌍 Filipina, living in Norway for 6 years.
 
-💻 Skills in HTML, CSS, JavaScript, [p5.js](https://p5js.org/), and [React](https://reactjs.org/).
+💻 Skills in HTML, CSS, JavaScript, Tailwind CSS [p5.js](https://p5js.org/), and [React](https://reactjs.org/).
 
 🛠️ Knowledge in WordPress and Adobe XD.
 
