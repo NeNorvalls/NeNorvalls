@@ -115,4 +115,6 @@ Feel free to explore more in my [portfolio](https://nenorvalls-portfolio.netlify
 
 [![Redux Toolkit & React](https://i.ibb.co/nBtYxTM/Redux-Toolkit-React.png)](https://codefinity.com/certificate/373b8d8b-3011-4627-b2a1-1a1b912ea13a/07b808dc-1102-4256-807f-abaee50397ce?onNotFound=/courses/v2/07b808dc-1102-4256-807f-abaee50397ce/4a182f25-3c05-468e-b6d8-3e981d7e74a8/11f05a33-0bef-406d-84b6-3d92148d31ab)
 
+[![Introduction to SQL](https://i.ibb.co/gtsJ1Yp/Introduction-to-SQL.png)](https://codefinity.com/certificate/373b8d8b-3011-4627-b2a1-1a1b912ea13a/b3ddb247-eebc-4cd4-a859-0d9c1428d0bf)
+
 ---
