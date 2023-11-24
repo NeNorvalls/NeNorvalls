@@ -101,16 +101,18 @@ Feel free to explore more in my [portfolio](https://nenorvalls-portfolio.netlify
 
 ### Certificates
 
-[![Ultimate HTML](https://i.ibb.co/T84XdDw/ultimate-html-certificate.png)](https://codefinity.com/certificate/373b8d8b-3011-4627-b2a1-1a1b912ea13a/c468052d-6d47-4677-b1d1-fb11ace719b1?onNotFound=/courses/v2/c468052d-6d47-4677-b1d1-fb11ace719b1/7ac00a35-b7e7-481d-8810-019431a857ce/39d4f29e-4eb2-48cb-b1e4-2cb0f442a518?isCertificateModalOpen=true)
+[![Ultimate HTML](https://i.ibb.co/T84XdDw/ultimate-html-certificate.png)](https://codefinity.com/certificate/373b8d8b-3011-4627-b2a1-1a1b912ea13a/c468052d-6d47-4677-b1d1-fb11ace719b1?onNotFound=/courses/v2/c468052d-6d47-4677-b1d1-fb11ace719b1/7ac00a35-b7e7-481d-8810-019431a857ce/39d4f29e-4eb2-48cb-b1e4-2cb0f442a518)
 
-[![CSS Fundamentals](https://i.ibb.co/ZH3JfM7/css-fundamentals-certificate.png)](https://codefinity.com/certificate/373b8d8b-3011-4627-b2a1-1a1b912ea13a/515d0daa-521e-42b6-8924-7df40da6d6ac?onNotFound=/courses/v2/515d0daa-521e-42b6-8924-7df40da6d6ac/ffc06012-e2d0-4d8e-a1d4-e3ba2726e336/cc11143f-c168-4094-ad66-3e1ed2e23d40?isCertificateModalOpen=true)
+[![CSS Fundamentals](https://i.ibb.co/ZH3JfM7/css-fundamentals-certificate.png)](https://codefinity.com/certificate/373b8d8b-3011-4627-b2a1-1a1b912ea13a/515d0daa-521e-42b6-8924-7df40da6d6ac?onNotFound=/courses/v2/515d0daa-521e-42b6-8924-7df40da6d6ac/ffc06012-e2d0-4d8e-a1d4-e3ba2726e336/cc11143f-c168-4094-ad66-3e1ed2e23d40)
 
-[![Introduction to JavaScript](https://i.ibb.co/QjCzd7R/introduction-to-javascript-certificate.png)](https://codefinity.com/certificate/373b8d8b-3011-4627-b2a1-1a1b912ea13a/515d0daa-521e-42b6-8924-7df40da6d6ac?onNotFound=/courses/v2/515d0daa-521e-42b6-8924-7df40da6d6ac/ffc06012-e2d0-4d8e-a1d4-e3ba2726e336/cc11143f-c168-4094-ad66-3e1ed2e23d40?isCertificateModalOpen=true)
+[![Introduction to JavaScript](https://i.ibb.co/QjCzd7R/introduction-to-javascript-certificate.png)](https://codefinity.com/certificate/373b8d8b-3011-4627-b2a1-1a1b912ea13a/515d0daa-521e-42b6-8924-7df40da6d6ac?onNotFound=/courses/v2/515d0daa-521e-42b6-8924-7df40da6d6ac/ffc06012-e2d0-4d8e-a1d4-e3ba2726e336/cc11143f-c168-4094-ad66-3e1ed2e23d40)
 
 [![Responsive Web Design](https://i.ibb.co/xCqr36q/Html-Css-Certificate.png)](https://www.freecodecamp.org/certification/fcc35d180ec-83e1-4f47-9c17-456eccbc6f66/responsive-web-design)
 
-[![Mastering React](https://i.ibb.co/LSXjpxF/Mastering-React.png)](https://codefinity.com/certificate/373b8d8b-3011-4627-b2a1-1a1b912ea13a/1dcaf86a-11aa-492e-8e1d-06e055479aa9?onNotFound=/courses/v2/1dcaf86a-11aa-492e-8e1d-06e055479aa9/9ea7774a-16ac-4122-9a8b-a9a9d105e7c5/9011701b-f984-425e-b2ee-d6fd571c9828?isCertificateModalOpen=true)
+[![Mastering React](https://i.ibb.co/LSXjpxF/Mastering-React.png)](https://codefinity.com/certificate/373b8d8b-3011-4627-b2a1-1a1b912ea13a/1dcaf86a-11aa-492e-8e1d-06e055479aa9?onNotFound=/courses/v2/1dcaf86a-11aa-492e-8e1d-06e055479aa9/9ea7774a-16ac-4122-9a8b-a9a9d105e7c5/9011701b-f984-425e-b2ee-d6fd571c9828)
 
-[![Redux Toolkit & React](https://i.ibb.co/nBtYxTM/Redux-Toolkit-React.png)](https://codefinity.com/certificate/373b8d8b-3011-4627-b2a1-1a1b912ea13a/07b808dc-1102-4256-807f-abaee50397ce?onNotFound=/courses/v2/07b808dc-1102-4256-807f-abaee50397ce/4a182f25-3c05-468e-b6d8-3e981d7e74a8/11f05a33-0bef-406d-84b6-3d92148d31ab?isCertificateModalOpen=true)
+[![React Router](https://i.ibb.co/pfRZgkT/React-Router.png)](https://codefinity.com/certificate/373b8d8b-3011-4627-b2a1-1a1b912ea13a/47a2050d-dff1-4447-9480-493340e23a2d)
+
+[![Redux Toolkit & React](https://i.ibb.co/nBtYxTM/Redux-Toolkit-React.png)](https://codefinity.com/certificate/373b8d8b-3011-4627-b2a1-1a1b912ea13a/07b808dc-1102-4256-807f-abaee50397ce?onNotFound=/courses/v2/07b808dc-1102-4256-807f-abaee50397ce/4a182f25-3c05-468e-b6d8-3e981d7e74a8/11f05a33-0bef-406d-84b6-3d92148d31ab)
 
 ---
