@@ -88,7 +88,7 @@ Connect with me on social media:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nenorvalls&theme=dark&background=000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nenorvalls&layout=compact&theme=vision-friendly-dark)
 
-## :art: Portfolio Highlights and Don't forget to click the PORTFOLIO link :point_down:
+## :art: Portfolio Highlights 
 
 ### Check out some of my work
 
@@ -97,4 +97,4 @@ Connect with me on social media:
   - Link: [Community Science Museum](https://nenorvalls-community-science-museum.netlify.app/)
   - ![Community Science Museum](/images/csm-screenshot.jpeg)
 
-Feel free to explore more in my [portfolio](https://nenorvalls-portfolio.netlify.app/)
+Feel free to explore more CLICK here  :point_right: my [portfolio](https://nenorvalls-portfolio.netlify.app/)
