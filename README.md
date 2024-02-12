@@ -12,7 +12,7 @@ I'm Neno.
 
 🌍 Filipina, living in Norway for 6 years.
 
-💻 Skills in HTML, CSS, JavaScript, Tailwind CSS [p5.js](https://p5js.org/), and [React](https://reactjs.org/) and more.
+💻 Skills in HTML, CSS, JavaScript, React, Next.js, Tailwind CSS [p5.js](https://p5js.org/), and [React](https://reactjs.org/) and more.
 
 🛠️ Knowledge in WordPress and Adobe XD.
 
