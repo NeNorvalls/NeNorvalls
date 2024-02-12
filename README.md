@@ -88,7 +88,7 @@ Connect with me on social media:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nenorvalls&theme=dark&background=000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nenorvalls&layout=compact&theme=vision-friendly-dark)
 
-## :art: Portfolio Highlights
+## :art: Portfolio Highlights and Don't forget to click the PORTFOLIO link :point_down:
 
 ### Check out some of my work
 
