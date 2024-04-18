@@ -8,7 +8,7 @@ I'm Neno.
 
 ## About Me
 
-👩‍💻 graduate of front-end dev.
+👩‍💻 front-end dev.
 
 🌍 Filipina, living in Norway for 6 years.
 
