@@ -10,7 +10,7 @@ I'm Neno.
 
 👩‍💻 front-end dev.
 
-🌍 Filipina, living in Norway for 6 years.
+🌍 Filipina, living in Norway for 7 years.
 
 💻 Skills in HTML, CSS, JavaScript and [React](https://reactjs.org/) .
 
