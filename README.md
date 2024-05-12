@@ -97,4 +97,4 @@ Connect with me on social media:
   - Link: [Community Science Museum](https://nenorvalls-community-science-museum.netlify.app/)
   - ![Community Science Museum](/images/csm-screenshot.jpeg)
 
-Feel free to explore more CLICK here  :point_right: my [portfolio](https://nenorvalls-portfolio.netlify.app/)
+Feel free to explore more CLICK here  :point_right: my [portfolio]([[https://nenorvalls-portfolio.netlify.app/](https://nenorvalls-portfolio.netlify.app/)
