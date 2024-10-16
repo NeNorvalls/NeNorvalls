@@ -8,17 +8,17 @@ I'm Neno.
 
 ## About Me
 
-👩‍💻 front-end dev.
+👩‍💻 Front-end dev.
 
-🌍 Filipina, living in Norway for 7 years.
+🌍 Filipina, living in Norway.
 
-💻 Skills in HTML, CSS, JavaScript and [React](https://reactjs.org/) .
+💻 Skills in HTML, CSS, JavaScript, and [React](https://reactjs.org/).
 
-🛠️ Knowledge in WordPress and Adobe XD.
+🛠️ Knowledge in WordPress, Adobe XD, MySQL, and Python.
 
 🌟 Interested in acquiring more knowledge about designs, frameworks, and languages.
 
-📚 Eager to learn how to code properly.
+📚 Eager to learn how to code properly. **Coding since 2021.**
 
 ♟️ Chess player, passionate about coding.
 
@@ -27,6 +27,7 @@ I'm Neno.
 ⏳ Believes that patience is key to achieving things smoothly.
 
 💡 A good developer is not afraid to try and test their knowledge to fix challenges or issues.
+
 
 ---
 
