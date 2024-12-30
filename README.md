@@ -92,7 +92,6 @@ Connect with me on social media:
 
 - **Community Science Museum**
   - Description: This website's main goal is to put what we learn about HTML and CSS.
-  - Link: [Community Science Museum](https://nenorvalls-community-science-museum.netlify.app/)
-  - ![Community Science Museum](/images/csm-screenshot.jpeg)
+  - Link: [Community Science Museum](https://nenorvalls.github.io/Community-Science-Museum/)
 
 Feel free to explore more CLICK here :point_right: my [portfolio]([[https://nenorvalls-portfolio.netlify.app/](https://nenorvalls-portfolio.netlify.app/)
