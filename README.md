@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Neno.
+I'm NeNo.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Nenorvalls&style=flat-square&color=blue)
 
@@ -10,7 +10,7 @@ I'm Neno.
 
 👩‍💻 Front-end dev.
 
-🌍 Filipina, living in Norway.
+🌍 Norwegian.
 
 💻 Skills in HTML, CSS, JavaScript, and [React](https://reactjs.org/).
 
