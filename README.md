@@ -94,6 +94,6 @@ Connect with me on social media:
   - Description: This website's main goal is to put what we learn about HTML and CSS.
   - Link: [Community Science Museum](https://nenorvalls.github.io/Community-Science-Museum/)
 
-Feel free to explore more CLICK here :point_right: my [portfolio](https://nenorvalls-website.netlify.app/) or
-[portfolio](https://nenorvalls.github.io/nenorvalls-solutions/))
+Feel free to explore more CLICK here :point_right: my [portfolio 1](https://nenorvalls-website.netlify.app/) or
+[portfolio 2](https://nenorvalls.github.io/nenorvalls-solutions/))
 
