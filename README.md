@@ -8,7 +8,7 @@ I'm NeNo.
 
 ## About Me
 
-👩‍💻 Front-end dev.
+👩‍💻 Front-end dev. Cybersecurity Student.
 
 🌍 Norwegian.
 
