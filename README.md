@@ -14,9 +14,9 @@ I'm NeNo.
 
 💻 Skills in HTML, CSS, JavaScript, and [React](https://reactjs.org/).
 
-🛠️ Knowledge in WordPress, Adobe XD, MySQL, and Python.
+🛠️ Knowledge in WordPress, Adobe XD, MySQL, and Python, Flask, Cryptography.
 
-🌟 Interested in acquiring more knowledge about designs, frameworks, and languages.
+🌟 Interested in acquiring more knowledge about designs, frameworks, and other coding languages.
 
 📚 Eager to learn how to code properly. **Coding since 2021.**
 
